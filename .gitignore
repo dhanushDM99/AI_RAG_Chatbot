@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Environment variables
+*.env
+
+# Logs and debug files
+# *.log
+# rag_debug.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# PythonAnywhere-specific files
+# .python-version
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Build and distribution directories
+build/
+dist/
+*.egg-info/
+
+# ChromaDB persistent database
+# insurance_db/
+
+# Input/output data (optional)
+# input/
+# output/
+
+# Test artifacts (optional)
+# test_input/
+# test_output/
+
+# Temporary files and cache
+*.tmp
+*.swp
+*~

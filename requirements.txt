@@ -1,0 +1,10 @@
+langchain
+langchain-google-genai
+chromadb
+pypdf
+python-dotenv
+python-magic-bin  # For Windows file type detection
+langchain-community
+
+google-generativeai
+langchain-text-splitters

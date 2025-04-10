@@ -1,0 +1,16 @@
+2025-04-10 17:39:08,217 - INFO - Successfully loaded 70 documents
+2025-04-10 17:39:08,224 - INFO - Generated 138 chunks
+2025-04-10 17:39:08,312 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-04-10 17:39:08,493 - INFO - Collection initialized successfully
+2025-04-10 17:39:10,314 - ERROR - Storage failed: 404 404 models/text-embedding-large-exp-03-07 is not found for API version v1beta, or is not supported for embedContent. Call ListModels to see the list of available models and their supported methods. in upsert.
+2025-04-10 17:39:10,314 - CRITICAL - System initialization failed: 404 404 models/text-embedding-large-exp-03-07 is not found for API version v1beta, or is not supported for embedContent. Call ListModels to see the list of available models and their supported methods. in upsert.
+2025-04-10 17:43:07,132 - INFO - Successfully loaded 70 documents
+2025-04-10 17:43:07,132 - INFO - Generated 138 chunks
+2025-04-10 17:43:07,238 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-04-10 17:43:07,376 - INFO - Collection initialized successfully
+2025-04-10 17:44:07,568 - INFO - Stored 138 documents
+2025-04-10 18:45:38,657 - INFO - Successfully loaded 93 documents
+2025-04-10 18:45:38,674 - INFO - Generated 207 chunks
+2025-04-10 18:45:38,777 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-04-10 18:45:38,960 - INFO - Collection initialized successfully
+2025-04-10 18:47:07,724 - INFO - Stored 207 documents
