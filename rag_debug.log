@@ -19,3 +19,8 @@
 2025-04-10 19:19:52,148 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
 2025-04-10 19:19:52,285 - INFO - Collection initialized successfully
 2025-04-10 19:21:20,977 - INFO - Stored 207 documents
+2025-04-10 19:39:27,157 - INFO - Successfully loaded 93 documents
+2025-04-10 19:39:27,173 - INFO - Generated 207 chunks
+2025-04-10 19:39:27,277 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-04-10 19:39:27,422 - INFO - Collection initialized successfully
+2025-04-10 19:40:57,251 - INFO - Stored 207 documents

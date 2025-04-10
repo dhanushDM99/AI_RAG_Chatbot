@@ -1,3 +1,8 @@
+__import__('pysqlite3')
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+import sqlite3  # Now uses the patched version
+
 import sys
 import os
 import streamlit as st
@@ -39,8 +44,8 @@ def initialize_system():
 # Streamlit app layout
 st.set_page_config(page_title="Insurance Query Bot", layout="centered")
 
-st.title("Insurance Query Bot")
-st.write("Ask questions about insurance tiers (Gold, Silver, Bronze).")
+st.title("ChatBot")
+st.write("Ask questions.")
 
 rag, llm = initialize_system()
 if not rag or not llm:

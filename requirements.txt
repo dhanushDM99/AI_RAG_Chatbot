@@ -10,3 +10,4 @@ google-generativeai
 langchain-text-splitters
 
 streamlit
+pysqlite3-binary
