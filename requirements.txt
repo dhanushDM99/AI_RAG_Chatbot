@@ -10,4 +10,4 @@ google-generativeai
 langchain-text-splitters
 
 streamlit
-pysqlite3-binary
+# pysqlite3 == 0.5.4

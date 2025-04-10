@@ -12,8 +12,8 @@ env/
 *.env
 
 # Logs and debug files
-# *.log
-# rag_debug.log
+*.log
+rag_debug.log
 
 # System files
 .DS_Store
@@ -32,7 +32,7 @@ dist/
 *.egg-info/
 
 # ChromaDB persistent database
-# insurance_db/
+insurance_db/
 
 # Input/output data (optional)
 # input/
